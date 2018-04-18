@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTP-demo.Plugins", "BTP-demo.Plugins.csproj", "{A0491D01-5900-F71D-994D-BEE8E564498F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTP-demo", "BTP-demo.csproj", "{6A5B47D8-E368-D274-199D-635BFDFED721}"
